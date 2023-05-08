@@ -87,3 +87,6 @@ The API has been published through a Lambda function. This has improved the scal
 
 **AWS S3 Bucket**
 The code has been pushed to an AWS S3 bucket. This has made it easier to deploy and manage the codebase.
+
+**Credits**
+Postcode Lookup project is created by Laxminarsimha Maringanti.
