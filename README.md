@@ -2,7 +2,13 @@
 
 **PostalCodeAPI** is a project that utilizes the Postcode and Geolocation API for the UK to provide a user-friendly interface for querying and managing postal codes in the UK.  
 
- The project is divided into several components:
+**https://postalcodeweb.s3.amazonaws.com/index.html**
+
+**https://g8w4x6soxi.execute-api.us-east-1.amazonaws.com/Prod/LookupPostcode/ig27nh**
+
+**https://g8w4x6soxi.execute-api.us-east-1.amazonaws.com/Prod/autocomplete/ig27n**
+
+The project is divided into several components:
 
 **PostalCode.API:** This is the main project and contains the core functionality for querying and managing postal codes. It is responsible for handling incoming requests, querying the database, and returning responses.
 
