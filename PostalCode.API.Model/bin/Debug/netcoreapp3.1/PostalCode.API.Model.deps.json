@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PostalCode.API.Model/1.0.0": {
+        "runtime": {
+          "PostalCode.API.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PostalCode.API.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

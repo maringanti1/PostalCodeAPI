@@ -1,0 +1,13 @@
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Model\bin\Release\netcoreapp3.1\PostalCode.API.Model.deps.json
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Model\bin\Release\netcoreapp3.1\PostalCode.API.Model.runtimeconfig.json
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Model\bin\Release\netcoreapp3.1\PostalCode.API.Model.runtimeconfig.dev.json
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Model\bin\Release\netcoreapp3.1\PostalCode.API.Model.dll
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Model\bin\Release\netcoreapp3.1\PostalCode.API.Model.pdb
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Model\obj\Release\netcoreapp3.1\PostalCode.API.Model.csproj.AssemblyReference.cache
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Model\obj\Release\netcoreapp3.1\PostalCode.API.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Model\obj\Release\netcoreapp3.1\PostalCode.API.Model.AssemblyInfoInputs.cache
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Model\obj\Release\netcoreapp3.1\PostalCode.API.Model.AssemblyInfo.cs
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Model\obj\Release\netcoreapp3.1\PostalCode.API.Model.csproj.CoreCompileInputs.cache
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Model\obj\Release\netcoreapp3.1\PostalCode.API.Model.dll
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Model\obj\Release\netcoreapp3.1\PostalCode.API.Model.pdb
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Model\obj\Release\netcoreapp3.1\PostalCode.API.Model.genruntimeconfig.cache

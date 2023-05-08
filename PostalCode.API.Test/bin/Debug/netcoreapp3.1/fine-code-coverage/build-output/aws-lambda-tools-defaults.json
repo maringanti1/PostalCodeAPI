@@ -1,0 +1,11 @@
+
+{
+    "profile" : "default",
+    "region"  : "us-east-1",
+    "configuration" : "Release",
+    "runtime"       : "dotnetcore3.1",
+    "s3-bucket"     : "postalcodelamdabucket",
+    "s3-prefix"     : "PostalCodeAPI/",
+    "stack-name"    : "CoreAPIStack",
+    "template"      : "serverless.template"
+}

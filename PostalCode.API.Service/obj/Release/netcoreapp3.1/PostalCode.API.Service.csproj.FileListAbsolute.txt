@@ -1,0 +1,16 @@
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\bin\Release\netcoreapp3.1\PostalCode.API.Service.deps.json
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\bin\Release\netcoreapp3.1\PostalCode.API.Service.runtimeconfig.json
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\bin\Release\netcoreapp3.1\PostalCode.API.Service.runtimeconfig.dev.json
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\bin\Release\netcoreapp3.1\PostalCode.API.Service.dll
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\bin\Release\netcoreapp3.1\PostalCode.API.Service.pdb
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\bin\Release\netcoreapp3.1\PostalCode.API.Model.dll
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\bin\Release\netcoreapp3.1\PostalCode.API.Model.pdb
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\obj\Release\netcoreapp3.1\PostalCode.API.Service.csproj.AssemblyReference.cache
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\obj\Release\netcoreapp3.1\PostalCode.API.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\obj\Release\netcoreapp3.1\PostalCode.API.Service.AssemblyInfoInputs.cache
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\obj\Release\netcoreapp3.1\PostalCode.API.Service.AssemblyInfo.cs
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\obj\Release\netcoreapp3.1\PostalCode.API.Service.csproj.CoreCompileInputs.cache
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\obj\Release\netcoreapp3.1\PostalCode.API.Service.csproj.CopyComplete
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\obj\Release\netcoreapp3.1\PostalCode.API.Service.dll
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\obj\Release\netcoreapp3.1\PostalCode.API.Service.pdb
+C:\Users\laxmi\source\repos\PostalCode.API\PostalCode.API.Service\obj\Release\netcoreapp3.1\PostalCode.API.Service.genruntimeconfig.cache
