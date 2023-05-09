@@ -30,13 +30,21 @@ This CloudFormation stack creates an AWS Lambda function that uses an ASP.NET Co
 The stack takes the following configuration parameters:
 
 **profile**: The AWS CLI profile to use for deploying the stack. Default: "default".
+
 **region**: The AWS region in which to deploy the stack. Default: "us-east-1".
+
 **configuration**: The build configuration to use for the ASP.NET Core application. Default: "Release".
+
 **runtime**: The .NET Core runtime version to use for the Lambda function. Default: "dotnetcore3.1".
+
 **s3-bucket:** The name of the S3 bucket to store the Lambda function code. Required.
+
 **s3-prefix:** The prefix to use for S3 objects created by the stack. Default: "PostalCodeAPI/".
+
 **stack-name:** The name of the CloudFormation stack. Required.
+
 **template:** The filename of the CloudFormation template to use. Default: "serverless.template".
+
 
 **Resources Created**
 The stack creates the following resources:
