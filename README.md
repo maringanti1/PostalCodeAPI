@@ -22,6 +22,8 @@ The PostalCode and Geolocation API for the UK provides a comprehensive dataset o
 
 To use the PostalCodeAPI, simply send a request to the appropriate endpoint with the desired parameters. The API will return a JSON response containing the requested data. Detailed documentation for the API can be found in the README file.
 
+**Deployment Document Please refere deployment document. The deployment document provides step-by-step instructions to create build artifacts and deploy them for the PostalCodeAPI and PostalCodeWeb applications. Deployment Instruction Document.docx**
+
 **CloudFormation Stack for Postal Code API**
 
 This CloudFormation stack creates an AWS Lambda function that uses an ASP.NET Core application to handle API Gateway proxy requests for the PostalCodeAPI. The stack deploys the Lambda function to the US East (N. Virginia) region and stores the code in an S3 bucket with prefix "PostalCodeAPI/".
