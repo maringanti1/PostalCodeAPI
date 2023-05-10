@@ -102,5 +102,12 @@ The API has been published through a Lambda function. This has improved the scal
 **AWS S3 Bucket**
 The code has been pushed to an AWS S3 bucket. This has made it easier to deploy and manage the codebase.
 
+**Deployment Document**
+Please refere deployment document. The deployment document provides step-by-step instructions to create build artifacts and deploy them for the PostalCodeAPI and PostalCodeWeb applications.
+
+
+
+
+
 **Credits**
 Postcode Lookup project is created by Laxminarsimha Maringanti.
